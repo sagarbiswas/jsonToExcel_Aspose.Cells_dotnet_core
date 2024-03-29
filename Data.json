@@ -1,0 +1,59 @@
+[
+  {
+    "Name": "John Smith",
+    "Contract": [
+      {
+        "Client": {
+          "Name": "A Company"
+        },
+        "Price": 1200000
+      },
+      {
+        "Client": {
+          "Name": "B Ltd."
+        },
+        "Price": 750000
+      },
+      {
+        "Client": {
+          "Name": "C & D"
+        },
+        "Price": 350000
+      }
+    ]
+  },
+  {
+    "Name": "Tony Anderson",
+    "Contract": [
+      {
+        "Client": {
+          "Name": "E Corp."
+        },
+        "Price": 650000
+      },
+      {
+        "Client": {
+          "Name": "F & Partners"
+        },
+        "Price": 550000
+      }
+    ]
+  },
+  {
+    "Name": "Jimmy Adams",
+    "Contract": [
+      {
+        "Client": {
+          "Name": "MIT"
+        },
+        "Price": 800000
+      },
+      {
+        "Client": {
+          "Name": "SnB"
+        },
+        "Price": 520000
+      }
+    ]
+  }
+]
